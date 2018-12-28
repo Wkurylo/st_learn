@@ -1,0 +1,7 @@
+stm32l496g_discovery_io.c:143:9:BSP_IO_Init	16	static
+stm32l496g_discovery_io.c:186:10:BSP_IO_ITGetStatus	0	static
+stm32l496g_discovery_io.c:205:6:BSP_IO_ITClear	0	static
+stm32l496g_discovery_io.c:230:9:BSP_IO_ConfigPin	8	static
+stm32l496g_discovery_io.c:250:6:BSP_IO_WritePin	0	static
+stm32l496g_discovery_io.c:267:10:BSP_IO_ReadPin	0	static
+stm32l496g_discovery_io.c:287:6:BSP_IO_TogglePin	8	static
